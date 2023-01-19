@@ -1,4 +1,4 @@
-## Windows Form Application ile yapılmış bir uygulamadır.(Ayrica, Görsel Programlama dersinin final ödevidir.)
+## Windows Form Application ile yapılmış bir uygulamadır.(Ayrıca, Görsel Programlama dersinin final ödevidir.)
 
 ## Şartları şu şekildedir:
 - Programda rehbere eklenecek Kişi ya Öğrenci yada Çalışan olacaktır. Kişi için Ad-Soyad, Telefon
